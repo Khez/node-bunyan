@@ -20,6 +20,8 @@ Also: log4j is way more than you need.
 
 # Current Status
 
+[![Join the chat at https://gitter.im/Khez/node-bunyan](https://badges.gitter.im/Khez/node-bunyan.svg)](https://gitter.im/Khez/node-bunyan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Solid core functionality is there. Joyent is using this for a number of
 production services. Bunyan supports node 0.6 and greater. Follow
 <a href="https://twitter.com/intent/user?screen_name=trentmick" target="_blank">@trentmick</a>
